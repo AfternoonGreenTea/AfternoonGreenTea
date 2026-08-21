@@ -5,4 +5,4 @@ Frontend Engineer in Japan. Right now, paying down frontend tech debt is my main
 React / TypeScript
 Frontend Modernization
 Refactoring
-Next.js, Vue.js, JavaScript
+Next.js, JavaScript
