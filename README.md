@@ -1,7 +1,7 @@
-TLDR
+## TLDR
 Frontend Engineer in Japan. Right now, paying down frontend tech debt is my main battlefield.
 
-Skills
+## Skills
 React / TypeScript
 Frontend Modernization
 Refactoring
